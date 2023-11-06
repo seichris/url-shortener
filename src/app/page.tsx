@@ -15,7 +15,7 @@ export default async function Page() {
         <div className="container flex max-w-[64rem] flex-col items-center gap-4 text-center">
           
           <h1 className="font-heading text-3xl sm:text-5xl">
-            An open source URL shortener.
+            An URL shortener.
           </h1>
           <div className="grid grid-cols-2 gap-4">
             <div className="flex flex-col items-center space-y-1 rounded-md border-2 border-violet-400 bg-violet-100 px-8 py-6">
